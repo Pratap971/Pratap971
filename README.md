@@ -1,6 +1,11 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 ## Hi 👋, I'm Pratap Yadav
 
 A passionate Software Test Engineer (QA) from India.
+
+img align="right" alt="Coding" width="400" src="https://akfpartners.com/growth-blog/the-power-of-qa-test-automation-in-agile-organizations"
+
 
 
 
