@@ -1,10 +1,6 @@
-[![MasterHead](https://www.linkedin.com/in/pratap-yadav-946148169/)](Pratap971)
-
 ## Hi 👋, I'm Pratap Yadav
 
 A passionate Software Test Engineer (QA) from India.
-
-img align="right" alt="Coding" width="400" src="https://akfpartners.com/growth-blog/the-power-of-qa-test-automation-in-agile-organizations"
 
 
 
