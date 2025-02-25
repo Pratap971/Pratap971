@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.linkedin.com/in/pratap-yadav-946148169/)](Pratap971)
 
 ## Hi 👋, I'm Pratap Yadav
 
