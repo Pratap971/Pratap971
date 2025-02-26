@@ -1,4 +1,4 @@
-![logo](https://github.com/Pratap971/Pratap971/blob/main/download.jpg)
+![logo](https://github.com/Pratap971/Pratap971/blob/main/Blue%20And%20Purple%20Professional%20Technology%20LinkedIn%20Banner.png)
 ## Hi 👋, I'm Pratap Yadav
 
 A passionate Software Test Engineer (QA) from India.
