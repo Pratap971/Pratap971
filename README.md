@@ -1,5 +1,5 @@
 ![logo](https://github.com/Pratap971/Pratap971/blob/main/Blue%20And%20Purple%20Professional%20Technology%20LinkedIn%20Banner.png)
-## Hi 👋, I'm Pratap Yadav
+## Hi 👋, I'm Pratap Yadav 
 
 A passionate Software Test Engineer (QA) from India.
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
