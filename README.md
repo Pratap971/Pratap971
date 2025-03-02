@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratap971&label=Profile%20views&color=0e75b6&style=flat" alt="pratap971" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratap971" alt="pratap971" /></a> </p>
-
 - 🌱 I’m currently learning **Automation Testing**
 
 - 👨‍💻 All of my projects are available at - https://github.com/Pratap971
@@ -23,6 +21,9 @@
 
  # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Pratap971&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratap971" alt="pratap971" /></a> </p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pratap971&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratap971&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
