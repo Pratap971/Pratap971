@@ -18,7 +18,7 @@
 
 - 🌱 Currently learning **Automation Testing**  
 - 💡 Passionate about **Software Testing & QA Automation**  
-- 👨‍💻 Explore my work on **(https://github.com/Pratap971)**  
+- 👨‍💻 Explore my work on **https://github.com/Pratap971**  
 - 📫 Reach out at **[pratapyadav100895@gmail.com](mailto:pratapyadav100895@gmail.com)**  
 - ⚡ Fun fact: I love problem-solving & exploring new testing tools!  
 
