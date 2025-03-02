@@ -1,4 +1,8 @@
-![logo](https://github.com/Pratap971/Pratap971/blob/main/Blue%20And%20Purple%20Professional%20Technology%20LinkedIn%20Banner.png)
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://github.com/Pratap971/Pratap971/blob/main/Blue%20And%20Purple%20Professional%20Technology%20LinkedIn%20Banner.png" alt="Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Pratap Yadav</h1>
 <h3 align="center">A Passionate Software Test Engineer (QA) from India</h3>
 
@@ -14,8 +18,8 @@
 
 - 🌱 Currently learning **Automation Testing**  
 - 💡 Passionate about **Software Testing & QA Automation**  
-- 👨‍💻 Check out my projects on **[GitHub](https://github.com/Pratap971)**  
-- 📫 Reach me at **[pratapyadav100895@gmail.com](mailto:pratapyadav100895@gmail.com)**  
+- 👨‍💻 Explore my work on **[GitHub](https://github.com/Pratap971)**  
+- 📫 Reach out at **[pratapyadav100895@gmail.com](mailto:pratapyadav100895@gmail.com)**  
 - ⚡ Fun fact: I love problem-solving & exploring new testing tools!  
 
 ---
@@ -46,33 +50,33 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitH
- 
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+</p>
 
-# 📊 GitHub Stats:
+---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratap971&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="200px"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratap971&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200px"/>
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats  
 
-## 🏆 GitHub Trophies
+<div align="center">
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratap971&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratap971&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pratap971&theme=darkhub&column=8&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-## 🔝 Top Contributed Repos
+---
+
+## 🔝 Top Contributed Repos  
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Pratap971&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
 
 ---
-
-
-
