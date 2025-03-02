@@ -1,6 +1,6 @@
 ![logo](https://github.com/Pratap971/Pratap971/blob/main/Blue%20And%20Purple%20Professional%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Pratap Yadav</h1>
-<h3 align="center">A passionate Software Test Engineer(QA)from India.</h3>
+<h3 align="center">A passionate Software Test Engineer (QA) from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratap971&label=Profile%20views&color=0e75b6&style=flat" alt="pratap971" /> </p>
 
@@ -21,9 +21,7 @@
 
  # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Pratap971&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pratap971&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratap971&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pratap971&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratap971&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratap971" alt="pratap971" /></a> </p>
 
