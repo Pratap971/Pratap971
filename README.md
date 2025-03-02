@@ -27,7 +27,7 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://instagram.com/@pratap.yadav.1048" target="_blank">
+  <a href="https://instagram.com/@pratap.yadav.1048?igsh=cDZ3ajJ4NnZOd3A4" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/pratap-yadav-946148169/" target="_blank">
