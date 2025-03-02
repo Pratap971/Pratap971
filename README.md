@@ -22,10 +22,10 @@
  # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Pratap971&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratap971" alt="pratap971" /></a> </p>
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pratap971&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratap971&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratap971" alt="pratap971" /></a> </p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pratap971&limit=5&theme=dark&combine_all_yearly_contributions=true)
