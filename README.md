@@ -24,7 +24,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pratap971&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratap971&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
-<img src="https://github-profile-trophy.vercel.app/?username=pratap971&theme=darkhub&column=3&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=pratap971&theme=darkhub&column=8&margin-w=15" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pratap971&limit=5&theme=dark&combine_all_yearly_contributions=true)
