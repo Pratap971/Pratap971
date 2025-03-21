@@ -6,9 +6,9 @@
 <h1 align="center">Hi 👋, I'm Pratap Yadav</h1>
 <h3 align="center">A Passionate Software Test Engineer (QA) from India</h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratap971&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 ---
 
