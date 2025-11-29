@@ -53,14 +53,6 @@
 </p>
 
 ---
-## 📊 GitHub Stats  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Pratap971&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pratap971&theme=dark&hide_border=false&layout=compact)
-
-
-
 
 ---
 
