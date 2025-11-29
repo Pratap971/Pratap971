@@ -6,10 +6,6 @@
 <h1 align="center">Hi 👋, I'm Pratap Yadav</h1>
 <h3 align="center">A Passionate Software Test Engineer (QA) from India</h3>
 
-<!--<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratap971&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p> -->
-
 ---
 
 ## 🚀 About Me  
@@ -26,7 +22,7 @@
 
 ## 🌐 Connect with Me  
 
-<p align="">
+<p>
   <a href="https://www.instagram.com/pratap.yadav.1048/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
@@ -61,8 +57,8 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratap971&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratap971&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  <img height="200px" src="https://streak-stats.demolab.com?user=Pratap971&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+  <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pratap971&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
 </div>
 
 ---
@@ -80,3 +76,4 @@
 </p>
 
 ---
+
