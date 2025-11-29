@@ -53,12 +53,12 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=Pratap971&theme=dark&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pratap971&theme=dark&hide_border=false&layout=compact" />
-</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Pratap971&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pratap971&theme=dark&hide_border=false&layout=compact)
+
 
 
 
