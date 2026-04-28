@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Pratap Yadav</h1>
-<h3 align="center">A Passionate Software Test Engineer (QA) from India</h3>
+<h3 align="center">A Passionate Software Test Engineer (QA)</h3>
 
 ---
 
